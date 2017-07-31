@@ -1,0 +1,13 @@
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\DemoFluentHibernate.exe.config
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\DemoFluentHibernate.exe
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\DemoFluentHibernate.pdb
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\FluentNHibernate.dll
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\Iesi.Collections.dll
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\NHibernate.dll
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\FluentNHibernate.pdb
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\FluentNHibernate.xml
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\Iesi.Collections.xml
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\bin\Debug\NHibernate.xml
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\obj\Debug\DemoFluentHibernate.exe
+c:\users\ry\documents\visual studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\obj\Debug\DemoFluentHibernate.pdb
+C:\Users\RY\Documents\Visual Studio 2015\Projects\DemoFluentHibernate\DemoFluentHibernate\obj\Debug\DemoFluentHibernate.csprojResolveAssemblyReference.cache
